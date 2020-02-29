@@ -3,6 +3,7 @@
 # 실제 프로그램 개발 중 자주 사용
 # 종류 : sys, pickle, shutil, temfile, time, random 등
 
+#예제1
 import sys
 print(sys.argv)
 
