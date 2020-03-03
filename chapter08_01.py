@@ -38,4 +38,3 @@ print(id(4))
 # Len : 요소의 길이 반환
 print(len('abcdefg'))
 print(len(1,2,3,4,5,6,7))
-# end
